@@ -1,2 +1,3 @@
-# personal-website
-bogdans.website
+# Hello world
+
+I am Bogdan Protsenko, a self taught front end developer/problem solver working out of London. So far I have a melting pot of work experience operating as a freelancer, working in small dev shops, a 4 year stint in [Grabyo](https://about.grabyo.com/us/) where I helped bring about core platform features and a little bit of time with [Arithmix](https://www.arithmix.com/) where I helped the team scale up their UI in a performant manner. I am looking for my next adventure, if you're interested check out [my website](https://notbogdan.github.io) for a public project or two, and don't hesitate to get in touch.
